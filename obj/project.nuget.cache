@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eoiUnnL589yIFWV+vtuUoT40LheWaPp/RVf5wDGsta4w/GIDsVD2hbv2q5Os/hSOv6fuypvPzZ7+OMRGnGPNng==",
+  "success": true,
+  "projectFilePath": "/home/igorl/Hobby Projects/Numeric Base Converter/Numeric base converter.csproj",
+  "expectedPackageFiles": [
+    "/home/igorl/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/igorl/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/igorl/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/igorl/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/igorl/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/igorl/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
